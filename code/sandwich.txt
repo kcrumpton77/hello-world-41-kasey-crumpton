@@ -1,0 +1,16 @@
+estimate: 25 lines
+pickup bread slice number 1 with left hand
+open peanut butter jar
+pickup knife with right hand
+put peanut butter on knife
+spread peanut butter on bread slice number 1 
+put bread slice number 1 on counter
+open jelly container
+pickup bread slice number 2 with left hand
+put jelly on knife
+spread jelly on bread slice number 2
+put knife on counter
+pickup bread slice number 1 with right hand
+put bread slice number 2 on top of bread slice number 1
+align edges of each bread slide
+enjoy sandwich
